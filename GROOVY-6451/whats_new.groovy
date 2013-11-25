@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-@GrabResolver(name='script', root='repo')
+@GrabResolver(name='script', root='https://raw.github.com/jimwhite/groovy-snippets/master/GROOVY-6451/repo')
 @Grab(group='org.ifcx.lucene', module='lucene-core', version='4.5.1')
 @Grab(group='org.ifcx.lucene', module='lucene-analyzers-common', version='4.5.1')
 
