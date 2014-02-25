@@ -16,7 +16,7 @@ import org.apache.lucene.search.TermQuery
 import org.apache.lucene.store.FSDirectory
 import org.apache.lucene.util.Version
 
-@groovy.transform.ScriptURI def myURI
+@groovy.transform.SourceURI def myURI
 
 println "I'm located at $myURI"
 
