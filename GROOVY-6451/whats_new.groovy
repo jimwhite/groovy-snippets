@@ -16,6 +16,10 @@ import org.apache.lucene.search.TermQuery
 import org.apache.lucene.store.FSDirectory
 import org.apache.lucene.util.Version
 
+@groovy.transform.ScriptURI def myURI
+
+println "I'm located at $myURI"
+
 args = args as List
 
 if (!args) {
