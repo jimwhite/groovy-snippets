@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="io.airlift:airline:0.7-SNAPSHOT" type="repository">
+    <properties maven-id="io.airlift:airline:0.7-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/airline-0.7-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Projects/airline/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
